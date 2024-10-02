@@ -8,7 +8,7 @@ You can check out the demo of the project [here](./Canvas-editor-ashish-karche.m
 
 ## Live Demo
 
-The project is hosted on GitHub. You can view the live demo [here](https://ashishkarche.github.io/canvas/).
+The project is hosted on GitHub. You can view the live demo [here](https://react-canvas-editor-9dk5ye3hm-ashishkarches-projects.vercel.app/).
 
 ## Features
 
